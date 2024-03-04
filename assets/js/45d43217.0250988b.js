@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkestudio_de_la_fisica=self.webpackChunkestudio_de_la_fisica||[]).push([[6592],{9024:e=>{e.exports=JSON.parse('{"permalink":"/estudio-de-la-fisica/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

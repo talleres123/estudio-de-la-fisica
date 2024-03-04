@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkestudio_de_la_fisica=self.webpackChunkestudio_de_la_fisica||[]).push([[876],{1184:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/estudio-de-la-fisica/blog/tags/docusaurus","allTagsPath":"/estudio-de-la-fisica/blog/tags","count":4,"unlisted":false}')}}]);

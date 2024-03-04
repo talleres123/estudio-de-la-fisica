@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkestudio_de_la_fisica=self.webpackChunkestudio_de_la_fisica||[]).push([[7624],{2796:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/estudio-de-la-fisica/blog/tags/hello","allTagsPath":"/estudio-de-la-fisica/blog/tags","count":2,"unlisted":false}')}}]);
