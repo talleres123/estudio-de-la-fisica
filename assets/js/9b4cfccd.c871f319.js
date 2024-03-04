@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkestudio_de_la_fisica=self.webpackChunkestudio_de_la_fisica||[]).push([[5368],{590:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);

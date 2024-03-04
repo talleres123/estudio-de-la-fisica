@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkestudio_de_la_fisica=self.webpackChunkestudio_de_la_fisica||[]).push([[4304],{3564:(e,s,c)=>{c.r(s),c.d(s,{default:()=>l});c(1504);var a=c(5456),r=c(5756),u=c(5864),i=c(5464),d=c(8272),t=c(7624);function l(e){return(0,t.jsx)(r.cr,{className:(0,a.c)(u.W.wrapper.docsPages),children:(0,t.jsx)(d.c,{children:(0,i.k)(e.route.routes)})})}}}]);
