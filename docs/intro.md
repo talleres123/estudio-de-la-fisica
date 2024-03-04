@@ -21,11 +21,14 @@ Así, conforme avancemos en nuestro estudio de la química, nos encontraremos pe
 
 La materia se clasifica por Dos formas principales de clasificar la materia son de acuerdo con su estado físico (como gas, líquido o sólido), y de acuerdo con su composición (como elemento, compuesto o mezcla).
 Algunas preguntas:
-a)	La luz, la inteligencia y la belleza  ¿son materia?
-b)	El aire que está dentro de un globo ¿es materia?
-c)	¿Masa y peso serán lo mismo? Un astronauta pesa. 60 kilos en la Tierra. El mismo astronauta pesa en la Luna 10 kilos. ¿Por qué?
 
-## Estados de la Materia
+a.La luz, la inteligencia y la belleza  ¿son materia?
+
+b.El aire que está dentro de un globo ¿es materia?
+
+c.¿Masa y peso serán lo mismo? Un astronauta pesa. 60 kilos en la Tierra. El mismo astronauta pesa en la Luna 10 kilos. ¿Por qué?
+
+## Estados de la materia
 
 Los estados de la materia son las formas en que la materia se presenta en función de sus propiedades físicas y estructurales. Tradicionalmente, se reconocen cuatro estados principales de la materia:
 
