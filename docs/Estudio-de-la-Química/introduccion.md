@@ -32,12 +32,3 @@ gantt
     Add gantt diagram to demo page      :20h
     Add another diagram to demo page    :48h
 ```
-
-## formula
-H^2+Fe----H2Fe
-![](https://latex.codecogs.com/gif.latex?%5Cce%7BFe%5E4&plus;%7D%20&plus;%20%5Cce%7BH%7D%20%5Clongrightarrow%20%5Cce%7BH4Fe%7D%20%5C%5C)
-
-| hola | mubdo |
-| ---- | ----- |
-| ghfghfghfhggfhg | gjhghjgjhg |
-| jljlkjlkj | hjkhkjhhkj |
